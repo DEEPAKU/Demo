@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Deepak
+Class-Path: lib/jstl-1.2.jar lib/mysql-connector-java-8.0.15.jar lib/p
+ rotobuf-java-3.6.1.jar
+Build-Jdk: 1.8.0_231
+Created-By: Maven Integration for Eclipse
+
